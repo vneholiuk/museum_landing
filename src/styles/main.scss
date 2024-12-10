@@ -1,3 +1,18 @@
-body {
-  margin: 0;
-}
+@import './utils/vars.scss';
+@import './utils/mixins.scss';
+@import './utils/extends.scss';
+@import './blocks/actuals.scss';
+@import './blocks/button.scss';
+@import './blocks/classicism.scss';
+@import './blocks/contacts.scss';
+@import './blocks/footer.scss';
+@import './blocks/gallery.scss';
+@import './blocks/header.scss';
+@import './blocks/images.scss';
+@import './blocks/menu.scss';
+@import './blocks/museum.scss';
+@import './blocks/nav.scss';
+@import './blocks/page.scss';
+@import './blocks/slides.scss';
+@import './blocks/subscribe.scss';
+@import './blocks/work-days.scss';
